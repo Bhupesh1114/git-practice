@@ -1,0 +1,1 @@
+const fourth = 'Hello from fourth.js file'
