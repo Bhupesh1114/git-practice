@@ -1,0 +1,1 @@
+const sixth = 'Hello from sixth.js file';
