@@ -1,0 +1,1 @@
+const second = 'Hello from second.js file';

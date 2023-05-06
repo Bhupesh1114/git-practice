@@ -1,0 +1,1 @@
+const first = 'Hello from first.js file';

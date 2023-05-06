@@ -1,0 +1,1 @@
+const third = 'Hello from third.js file';
