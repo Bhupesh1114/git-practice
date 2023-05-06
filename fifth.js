@@ -1,0 +1,1 @@
+const fifth = 'Hello from fifth.js file';
